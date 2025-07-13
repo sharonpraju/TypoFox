@@ -27,7 +27,7 @@ Works out of the box with native `<textarea>`, `<input>`, TinyMCE, ProseMirror, 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/typofox.git
+   git clone https://github.com/sharonpraju/TypoFox.git
    cd typofox
 2. Go to chrome://extensions/
 
